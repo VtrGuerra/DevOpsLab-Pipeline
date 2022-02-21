@@ -12,6 +12,8 @@ DevOps na Prática - Criando uma Pipeline do Zero
 
 <!-- Insira aqui a Flag com sua URL do Travis -->
 
+[![Build Status](https://app.travis-ci.com/VtrGuerra/DevOpsLab-Pipeline.svg?branch=master)](https://app.travis-ci.com/VtrGuerra/DevOpsLab-Pipeline)
+
 <p  align="center">
     <a  href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a  href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
